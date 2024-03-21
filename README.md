@@ -20,4 +20,4 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
   Distribuido bajo la Licencia MIT. Consulta LICENSE para obtener más información.
 
   ### Contacto
-  Nancy Salazar: [Mi LinkedIn](https://www.linkedin.com/in/lili-del-jes%C3%BAs-l%C3%B3pez-reyes-a8995a283/)
+ Lili Reyes: [Mi LinkedIn](https://www.linkedin.com/in/lili-del-jes%C3%BAs-l%C3%B3pez-reyes-a8995a283/)

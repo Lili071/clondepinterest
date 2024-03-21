@@ -13,11 +13,11 @@ Este proyecto es un clon de la interfa de usuario de Pinterest, creado puramente
 + **CSS3:** Para el diseño y estilo, incluyendo flexbox para un diseño responsivo y efectos de hover.
 + **Google Fonts:** Para fuentes personalizadas.
 
-  ### Vista Previa del Proyecto
-  (Pendiente)
+### Vista Previa del Proyecto
+(Pendiente)
 
-  ### Licencia
-  Distribuido bajo la Licencia MIT. Consulta LICENSE para obtener más información.
+### Licencia
+Distribuido bajo la Licencia MIT. Consulta LICENSE para obtener más información.
 
-  ### Contacto
- Lili Reyes: [Mi LinkedIn](https://www.linkedin.com/in/lili-del-jes%C3%BAs-l%C3%B3pez-reyes-a8995a283/)
+### Contacto
+Lili Reyes: [Mi LinkedIn](https://www.linkedin.com/in/lili-del-jes%C3%BAs-l%C3%B3pez-reyes-a8995a283/)
